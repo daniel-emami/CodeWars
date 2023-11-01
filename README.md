@@ -1,2 +1,2 @@
 # CodeWars
-Solutions for CodeWars exercises
+Solutions for CodeWars exercises.
